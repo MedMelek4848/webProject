@@ -1,0 +1,46 @@
+[
+ 
+  
+  {
+    "name": "Gestion de stock",
+    "desc": "projet web e-comerce develpée avec le fameu framework Django ",
+    "image": "django",
+    "category": "django",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/MedMelek4848/Gestion-de-stock-"
+    }
+  },
+  {
+    "name": "Restaurant",
+    "desc": "un projet developée avec Java et html Css JS et la format JSP.",
+    "image": "rest",
+    "category": "SOAP",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/MedMelek4848/Soap-project"
+    }
+  },
+  {
+    "name": "Ecole Privée nour el Maaref",
+    "desc": "Projet fin d'etude full stack avec le sts , Angular et un model de machine learning pour la prediction des admis.",
+    "image": "nour",
+    "category": "fullstack",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/MedMelek4848/Projet-Back-end/tree/add_pdf"
+    }
+  },
+  {
+    "name": "RMI service",
+    "desc": "un projet developée avec Java pour afficher en terminal avec le serveur tomcat",
+    "image": "rmi",
+    "category": "RMI",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/MedMelek4848/WebService_SOAP-ScolariteWS"
+    }
+  }
+ 
+  
+]
